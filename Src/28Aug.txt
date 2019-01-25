@@ -1,0 +1,72 @@
+  Questions about Tabbed Component
+
+
+
+
+    1 Tabs Vertical Bar and Tabs Text
+
+      •	Min 2
+      •	Max 5 tabs  with Text will be displayed , allow the number of tabs to be displayed as configurable
+      •	Default number of tabs to 3
+
+
+
+     Arrow symbol is getting displayed in the case when user dont want to add CTA for particular Tab text section.
+
+
+
+
+    Image Container
+
+
+     •	Provide the ability to hide asset container
+
+
+
+
+
+
+     
+      The Tabs vertical Bar and Tabs Text behavioue is different in Mobile and Tablet and Desktop views.
+
+
+
+      CTA URL got sticked to Tab Vertical bar and Tabs Text in Tablet and Desktio Views.
+
+
+      Where in Mobile view it is correctly functioning.
+
+
+
+
+      Tab Image type if we keep as 'Background' image user is able to see some part in desktp for FF and Chrome but in IE it is completely missing.  
+
+
+
+
+      Working on TASK0040538 Tabbed Component ticket.
+
+
+
+     
+
+
+
+     25 Tiles component I dis as Passed.
+
+
+     QA-Automation Pages folder keep variations der
+
+
+     TASK0040566
+     TASK0040567
+
+ 
+
+
+
+
+
+
+
+
