@@ -1,0 +1,22 @@
+
+
+
+What is Github
+
+
+
+A directory or storage space where your projects can live.You can keep code files, text files, image files.
+
+
+UserName: Amolkale2019
+
+
+Pwd:Nutanix@123
+
+
+
+
+attlasian.com
+
+
+Added inti the Git file.
